@@ -1,4 +1,4 @@
-# Artificial-Intelligence-norway
+# Artificial-Intelligence-Norway
 This is collective effort to showcase AI in Norway and bring a strong community together. 
 
 
