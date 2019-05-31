@@ -23,8 +23,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 ## List of AI Service Companies in Norway 
 | Company | Description / Service | Website |
 | :--- | :--- | :--- |
-| INMETA | Inmeta is a Norwegian IT consulting company who offer a wide range of services: Interaction & Portals,
-System development & integrations, Big Data & Machine Learning, E-commerce, and Business Consulting.| https://inmeta.no/ |
+| INMETA | Inmeta is a Norwegian IT consulting company who offer a wide range of services: Interaction & Portals, System development & integrations, Big Data & Machine Learning, E-commerce, and Business Consulting.| https://inmeta.no/ |
 | Netcompany | Netcompany is a IT services company delivering business-critical strategic IT projects that accelerate customers’ digital transformation through digital platforms, core systems and infrastructure servicessight including data, insight and cognitive computing. | https://www.netcompany.com/no/ |
 
 
