@@ -18,6 +18,9 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Boost AI | Boost AI boosts your customer experience with an artificially intelligent virtual agent that makes everything fast and easy. | https://www.boost.ai/ |
 | Iris | Iris is an AI Science Assistant, helping R&D double productivity when seeking out new opportunities in published research. | https://iris.ai/ |
 | Spacemaker | Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site. | https://spacemaker.ai/ |
+| Globus AI | AI as a Service (AIaaS) platform that increases innovation speed, simplifies sustainable decision making, and reduces data science implementation cost | https://www.globus.ai/ |
+
+
 
 
 ## List of AI Service Companies in Norway 
