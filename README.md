@@ -11,8 +11,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 
 
 ## List of datasets in public sector
-## List of AI stakeholders in public sector  
-| Org | Description | Website |
+| Organisation | Description | Website |
 | Stavanger kommune | The first regional data portal i Norway established in 2016. Running on https://ckan.org/ | https://open.stavanger.kommune.no/dataset
  |
 
