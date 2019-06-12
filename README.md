@@ -10,8 +10,11 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | SINTEF |  One of Europe’s largest independent research organisations with these AI research areas: deep learning, explainable AI, hybrid modelling, image analysis, machine learning, reinforcement learning, robot vision, and synthetic data.  | https://twitter.com/SINTEF |
 
 
-## List of datasets in public sector  
-https://open.stavanger.kommune.no/dataset
+## List of datasets in public sector
+## List of AI stakeholders in public sector  
+| Org | Description | Website |
+| Stavanger kommune | The first regional data portal i Norway established in 2016. Running on https://ckan.org/ | https://open.stavanger.kommune.no/dataset
+ |
 
 ## List of AI Product Companies with HQ in Norway
 
