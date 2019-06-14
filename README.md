@@ -14,6 +14,9 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Organisation | Description | Website |
 | :--- | :--- | :--- |
 | Stavanger kommune | The first regional data portal i Norway established in 2016. Running on https://ckan.org/ | https://open.stavanger.kommune.no/dataset |
+| Difi | Data.norge.no is open data register in Norway.| https://data.norge.no |
+
+
 
 ## List of AI Product Companies with HQ in Norway
 
