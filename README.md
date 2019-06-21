@@ -1,6 +1,10 @@
 # Artificial-Intelligence-Norway
 This is collective effort to showcase AI in Norway and bring a strong community together. 
 
+## List of key AI stakeholders in Nordics  
+| Stakehoder | Description | Website | 
+| :--- | :--- | :--- |
+| Nordic Artificial Intelligence Institute | - | https://www.nordicaiinstitute.com | 
 
 ## List of AI stakeholders in public sector  
 | Stakehoder | Description | Website |
