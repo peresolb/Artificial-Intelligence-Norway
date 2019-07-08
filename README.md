@@ -31,6 +31,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Iris | Iris is an AI Science Assistant, helping R&D double productivity when seeking out new opportunities in published research. | https://iris.ai/ |
 | Spacemaker | Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site. | https://spacemaker.ai/ |
 | Globus AI | AI as a Service (AIaaS) platform that increases innovation speed, simplifies sustainable decision making, and reduces data science implementation cost | https://www.globus.ai/ |
+|Fishency Innovation | Monitors salmon lice with machine learning | https://www.fishency.no/ | 
 
 
 
@@ -53,6 +54,5 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 <i>"Artificial Intelligence (AI) is the field of computer science dedicated to solving cognitive problems commonly associated with human intelligence, such as learning, problem solving, and pattern recognition. Artificial Intelligence, often abbreviated as "AI", may connote robotics or futuristic scenes, AI goes well beyond the automatons of science fiction, into the non-fiction of modern day advanced computer science. Professor Pedro Domingos, a prominent researcher in this field, describes “five tribes” of machine learning, comprised of symbolists, with origins in logic and philosophy; connectionists, stemming from neuroscience; evolutionaries, relating to evolutionary biology; Bayesians, engaged with statistics and probability; and analogizers with origins in psychology. Recently, advances in the efficiency of statistical computation have led to Bayesians being successful at furthering the field in a number of areas, under the name “machine learning”. Similarly, advances in network computation have led to connectionists furthering a subfield under the name “deep learning”. Machine learning (ML) and deep learning (DL) are both computer science fields derived from the discipline of Artificial Intelligence."</i>
 </br>
 Source: https://aws.amazon.com/machine-learning/what-is-ai/ 
-
 
 
