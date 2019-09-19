@@ -19,6 +19,10 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | :--- | :--- | :--- |
 | Stavanger kommune | The first regional data portal i Norway established in 2016. Running on https://ckan.org/ | https://open.stavanger.kommune.no/dataset |
 | Difi | Data.norge.no is open data register in Norway.| https://data.norge.no |
+| Statens vegvesen | Data fra Statens vegvesen - betaversjon. | https://dataut.vegvesen.no |
+| Samarbeidsprosjekt | Brønnøysundregistrene, Difi og øvrige SKATE-etater. | https://fellesdatakatalog.brreg.no |
+
+
 
 
 
