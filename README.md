@@ -49,6 +49,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 
 ## Showcase of Norwegian data projects 
 | Description / Title| Website |
+| :--- | :--- | 
 | Street-level analysis of public transport options in Oslo | https://nbviewer.jupyter.org/github/Niladri-B/Coursera_Captstone/blob/master/wk4/Capstone_part1.ipynb | 
 
 ## What is AI?
