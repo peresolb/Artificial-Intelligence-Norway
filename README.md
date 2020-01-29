@@ -10,7 +10,9 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Nordic Artificial Intelligence Institute | - | https://www.nordicaiinstitute.com | 
 
 ## AI Ethics
-https://www.teliacompany.com/en/about-the-company/public-policy/ai-ethics/ 
+| Organisation | URL |
+| :--- | :--- | :--- |
+| Telia | https://www.teliacompany.com/en/about-the-company/public-policy/ai-ethics/ | 
 
 
 ## List of public NO datasets 
