@@ -9,6 +9,9 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | SINTEF |  One of Europe’s largest independent research organisations with these AI research areas: deep learning, explainable AI, hybrid modelling, image analysis, machine learning, reinforcement learning, robot vision, and synthetic data.  | https://twitter.com/SINTEF |
 | Nordic Artificial Intelligence Institute | - | https://www.nordicaiinstitute.com | 
 
+## AI Ethics
+https://www.teliacompany.com/en/about-the-company/public-policy/ai-ethics/ 
+
 
 ## List of public NO datasets 
 | Organisation | Description | Website |
