@@ -11,7 +11,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 
 ## AI Ethics
 | Organisation | URL |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Telia | https://www.teliacompany.com/en/about-the-company/public-policy/ai-ethics/ | 
 
 
