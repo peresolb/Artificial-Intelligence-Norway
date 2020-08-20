@@ -4,10 +4,9 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 ## List of AI stakeholders / thought leaders 
 | Stakehoder | Description | Website |
 | :--- | :--- | :--- |
-
 | Inga Striumke | A proponent of ethical AI @ PWC Norway | https://strumke.wordpress.com |
 | Nikolai Astrup | The Minister of Digitalisation is responsible for ICT policy in the Ministry of Local Government and Modernisation. The Minister is also responsible for the work on electronic communications, including responsibility for the Norwegian Communications Authority. In addition, the Minister is responsible for the Altinn portal, business-oriented ICT, the Digital21 strategy for digitalisation of businesses in Norway, and resources for ICT research. | https://twitter.com/nikolaiastrup |
-| Norwegian Open AI Lab | A research centre that brings together various research efforts within AI.  | https://twitter.com/NorwegianOpenAl |
+| Norwegian Open AI Lab | A research centre that brings together various research efforts within AI.  | https://www.ntnu.edu/ailab/ai-lab |
 | SINTEF |  One of Europe’s largest independent research organisations with these AI research areas: deep learning, explainable AI, hybrid modelling, image analysis, machine learning, reinforcement learning, robot vision, and synthetic data.  | https://twitter.com/SINTEF |
 | Nordic Artificial Intelligence Institute | - | https://www.nordicaiinstitute.com | 
 
