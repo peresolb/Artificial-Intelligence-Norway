@@ -25,8 +25,8 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Statens vegvesen | Data fra Statens vegvesen - betaversjon. | https://dataut.vegvesen.no |
 | Samarbeidsprosjekt | Brønnøysundregistrene, Difi og øvrige SKATE-etater. | https://fellesdatakatalog.brreg.no |
 | GEOGRAFISKE DATA |  Eg har samla ulike geografiske databasar gjennom fleire år, både privat og på jobb i NRK | https://www.erikbolstad.no/geo/ |
-| UD Norwegian Nynorsk |  .. | https://universaldependencies.org/treebanks/no_nynorsk/index.html |
-| UD Norwegian Bokmaal | .. | https://universaldependencies.org/treebanks/no_bokmaal/index.html |
+| UD Norwegian Nynorsk | Norwegian Nynorsk text corpus with grammatical annotations in the Universal Dependencies framework | https://universaldependencies.org/treebanks/no_nynorsk/index.html |
+| UD Norwegian Bokmaal | Norwegian Bokmål text corpus with grammatical annotations in the Universal Dependencies framework | https://universaldependencies.org/treebanks/no_bokmaal/index.html |
 
 
 
