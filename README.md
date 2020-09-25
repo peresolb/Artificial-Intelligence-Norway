@@ -19,6 +19,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 ## List of public NO datasets 
 | Organisation | Description | Website |
 | :--- | :--- | :--- |
+| Nasjonalbiblioteket Språkbanken | For å utvikle god språkteknologi for norsk store datasett med norsk tekst og tale. Ressursane rettar seg mot verksemder som utviklar språkteknologiske produkt, språkforskarar og språkstudentar.  | https://www.nb.no/sprakbanken/ressurskatalog/ |
 | Stavanger kommune | The first regional data portal i Norway established in 2016. Running on https://ckan.org/ | https://open.stavanger.kommune.no/dataset |
 | Difi | Data.norge.no is open data register in Norway.| https://data.norge.no |
 | Statens vegvesen | Data fra Statens vegvesen - betaversjon. | https://dataut.vegvesen.no |
