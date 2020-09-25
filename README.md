@@ -25,6 +25,8 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Statens vegvesen | Data fra Statens vegvesen - betaversjon. | https://dataut.vegvesen.no |
 | Samarbeidsprosjekt | Brønnøysundregistrene, Difi og øvrige SKATE-etater. | https://fellesdatakatalog.brreg.no |
 | GEOGRAFISKE DATA |  Eg har samla ulike geografiske databasar gjennom fleire år, både privat og på jobb i NRK | https://www.erikbolstad.no/geo/ |
+| UD Norwegian Nynorsk |  .. | https://universaldependencies.org/treebanks/no_nynorsk/index.html |
+| UD Norwegian Bokmaal | .. | https://universaldependencies.org/treebanks/no_bokmaal/index.html |
 
 
 
@@ -38,6 +40,8 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Spacemaker | Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site. | https://spacemaker.ai/ |
 | Globus AI | AI as a Service (AIaaS) platform that increases innovation speed, simplifies sustainable decision making, and reduces data science implementation cost | https://www.globus.ai/ |
 |Fishency Innovation | Monitors salmon lice with machine learning | https://www.fishency.no/ | 
+|Max Manus AS |  et norsk teknologiselskap som gjennom de siste 40 år har spesialisert seg på kommunikasjons- og taleteknologiløsninger.| https://www.maxmanus.no/vi-tilbyr/tuva/ | 
+
 
 
 ## List of AI Service Companies in Norway 
